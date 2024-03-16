@@ -83,62 +83,6 @@
 
 
 
-# # task1 
-# list1 = ["bmw", "audi", "vw", "benz"]
-# i = 0
-
-# while i < len(list1):
-#     print(list1[i])
-#     i+=1
-
-
-
-# task2 
-    
-# alphabet = ["a", "b", "c", "d", "e", "f", "g", "h"]
-# i = 0
-# while i < len(alphabet):   
-#     if alphabet[i] == "e":
-#         i+=1
-#         continue
-#     print(alphabet[i])
-#     i+=1
-
-
-
-# task3 
-
-# num = int(input("Reqem daxil edin: "))
-
-# i = 0
-
-# while i <= num:
-
-#     print(i)
-#     i+=1
-
-    
-
-
-# task4 
-
-
-# for i in range(3):
-#     password = input("Shifreni daxil edin: ")
-#     if password == "1905":
-#         print("Girish edildi")
-#         break
-#     else:
-#         print("Max 3 sehv shansiniz var")
-# else:
-#     print("Shansiniz bitti")
-
-
-
-
-
-# task - 5 
-
 
 
 # question1 = input("3*5=? a)15 b)20 c)10 ")
