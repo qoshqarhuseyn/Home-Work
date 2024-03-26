@@ -1,6 +1,6 @@
 
 
-# Task - 1
+# Maliyyə Sənayesi: Task - 1 
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-# Task - 2
+# Səhiyyə Sənayesi: Task - 2 
 
 
 # height = float(input("Entre Your Height > "))
@@ -57,7 +57,7 @@
 
 
 
-# Task - 3
+# Təhsil Sənayesi: Task - 3 
 
 
 
